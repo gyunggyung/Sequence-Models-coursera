@@ -20,6 +20,10 @@ Good luck as you get started, and I hope you enjoy the course!
 	- [Week1 - Jazz improvisation with LSTM](https://github.com/newhiwoong/Sequence-Models-coursera/blob/master/Week%201/Jazz%20improvisation%20with%20LSTM/Improvise%2Ba%2BJazz%2BSolo%2Bwith%2Ban%2BLSTM%2BNetwork%2B-%2Bv3.ipynb)
 
 - Week 2
+	- [Week2 - Word Vector Representation](https://github.com/newhiwoong/Sequence-Models-coursera/blob/master/Week%202/Word%20Vector%20Representation/Operations%2Bon%2Bword%2Bvectors%2B-%2Bv2.ipynb)
+	- [Week2 - Emojify]()
+
+- Week 3
 
 
 ## Quiz Solutions
