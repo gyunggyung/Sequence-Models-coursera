@@ -24,5 +24,5 @@ Good luck as you get started, and I hope you enjoy the course!
 
 ## Quiz Solutions
 
-- [Week1 Quiz Solutions]()
-- [Week2 Quiz Solutions](https://github.com/newhiwoong/Sequence-Models-coursera/tree/master/Week%201/%ED%80%B4%EC%A6%88)
+- [Week1 Quiz Solutions](https://github.com/newhiwoong/Sequence-Models-coursera/tree/master/Week%201/%ED%80%B4%EC%A6%88)
+- [Week2 Quiz Solutions](https://github.com/newhiwoong/Sequence-Models-coursera/tree/master/Week%202/%ED%80%B4%EC%A6%88)
