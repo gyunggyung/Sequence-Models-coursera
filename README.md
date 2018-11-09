@@ -15,9 +15,9 @@ Good luck as you get started, and I hope you enjoy the course!
 
 ## Programming Assignments
 - Week 1
-	- [Week1 - Building a Recurrent Neural Network - Step by Step]()
-	- [Week1 - Dinosaur Island -- Character-level language model]()
-	- [Week1 - Jazz improvisation with LSTM]()
+	- [Week1 - Building a Recurrent Neural Network - Step by Step](https://github.com/newhiwoong/Sequence-Models-coursera/blob/master/Week%201/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step/Building%2Ba%2BRecurrent%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2B-%2Bv3.ipynb)
+	- [Week1 - Dinosaur Island -- Character-level language model](https://github.com/newhiwoong/Sequence-Models-coursera/blob/master/Week%201/Dinosaur%20Island%20--%20Character-level%20language%20model/Dinosaurus%2BIsland%2B--%2BCharacter%2Blevel%2Blanguage%2Bmodel%2Bfinal%2B-%2Bv3.ipynb)
+	- [Week1 - Jazz improvisation with LSTM](https://github.com/newhiwoong/Sequence-Models-coursera/blob/master/Week%201/Jazz%20improvisation%20with%20LSTM/Improvise%2Ba%2BJazz%2BSolo%2Bwith%2Ban%2BLSTM%2BNetwork%2B-%2Bv3.ipynb)
 
 - Week 2
 
