@@ -24,9 +24,11 @@ Good luck as you get started, and I hope you enjoy the course!
 	- [Week2 - Emojify]()
 
 - Week 3
-
+	- [Week3 - Machine Translation]()
+	- [Week3 - Trigger word detection]()
 
 ## Quiz Solutions
 
 - [Week1 Quiz Solutions](https://github.com/newhiwoong/Sequence-Models-coursera/tree/master/Week%201/%ED%80%B4%EC%A6%88)
 - [Week2 Quiz Solutions](https://github.com/newhiwoong/Sequence-Models-coursera/tree/master/Week%202/%ED%80%B4%EC%A6%88)
+- [Week2 Quiz Solutions](https://github.com/newhiwoong/Sequence-Models-coursera/tree/master/Week%303/%ED%80%B4%EC%A6%88)
