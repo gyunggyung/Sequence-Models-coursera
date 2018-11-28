@@ -4,7 +4,11 @@ Sequence Models by Andrew Ng on Coursera.
 > https://www.coursera.org/learn/nlp-sequence-models/home/welcome
 
 ## Introduction
-deeplearning.ai에서 제공하는 Sequence Models에 대한 강의입니다. 해당 강의를 들으면 Sequence Models에 대한 전반적인 예시부터 NLP와 관련된 지식, 이미지를 가지고 해당하는 글을 알려주는 지식, 글을 가지고 이모티콘을 생성해주는 코드, 재즈 음악이나 셰익스피어의 시를 재생산하는 지식, 음성인식을 위한 지식을 배울 수 있습니다.
+deeplearning.ai에서 제공하는 Sequence Models에 대한 강의입니다. 해당 강의를 들으면 Sequence Models에 대한 전반적인 이해를 할 수 있습니다. 기본적인 Numpy, Keras, deep-learning 지식이 필요합니다.
+
+### example
+RNN, LSTM의 구조에 대한 지식, NLP와 관련된 지식, 이미지를 가지고 해당하는 글을 알려주는 코드, 글을 가지고 이모티콘을 생성해주는 코드, 재즈 음악이나 셰익스피어의 시를 재생산하는 코드, 음성인식을 위한 코드와 방법론을 배울 수 있습니다.
+
 
 ## Lecture Explanation
 
