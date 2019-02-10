@@ -9,7 +9,6 @@ deeplearning.ai에서 제공하는 Sequence Models에 대한 강의입니다. �
 ### example
 RNN, LSTM의 구조에 대한 지식, NLP와 관련된 지식, 이미지를 가지고 해당하는 글을 알려주는 코드, 글을 가지고 이모티콘을 생성해주는 코드, 재즈 음악이나 셰익스피어의 시를 재생산하는 코드, 음성인식을 위한 코드와 방법론을 배울 수 있습니다.
 
-
 ## Lecture Explanation
 
 Welcome to Sequence Models! You’re joining thousands of learners currently enrolled in the course. I'm excited to have you in the class and look forward to your contributions to the learning community.
