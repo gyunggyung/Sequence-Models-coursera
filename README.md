@@ -3,12 +3,6 @@
 Sequence Models by Andrew Ng on Coursera.  
 > https://www.coursera.org/learn/nlp-sequence-models/home/welcome
 
-## Introduction
-deeplearning.ai에서 제공하는 Sequence Models에 대한 강의입니다. 해당 강의를 들으면 Sequence Models에 대한 전반적인 이해를 할 수 있습니다. 기본적인 Numpy, Keras, deep-learning 지식이 필요합니다.
-
-### example
-RNN, LSTM의 구조에 대한 지식, NLP와 관련된 지식, 이미지를 가지고 해당하는 글을 알려주는 코드, 글을 가지고 이모티콘을 생성해주는 코드, 재즈 음악이나 셰익스피어의 시를 재생산하는 코드, 음성인식을 위한 코드와 방법론을 배울 수 있습니다.
-
 ## Lecture Explanation
 
 Welcome to Sequence Models! You’re joining thousands of learners currently enrolled in the course. I'm excited to have you in the class and look forward to your contributions to the learning community.
@@ -40,16 +34,16 @@ Good luck as you get started, and I hope you enjoy the course!
 - [Week3 Quiz Solutions](https://github.com/newhiwoong/Sequence-Models-coursera/tree/master/Week%203/%ED%80%B4%EC%A6%88)
 
 
-## + https://github.com/newhiwoong/Keras-Applications
+## [Keras-Applications](https://github.com/newhiwoong/Keras-Applications)
 
-### 시퀀스
+### sequence models
 Emojify! : https://github.com/newhiwoong/Sequence-Models-coursera/blob/master/Week%202/Emojify/Emojify%2B-%2Bv2.ipynb
 
 Neural Machine Translation : https://github.com/newhiwoong/Sequence-Models-coursera/blob/master/Week%203/Machine%20Translation/Neural%2Bmachine%2Btranslation%2Bwith%2Battention%2B-%2Bv4.ipynb
 
 Trigger Word Detection : https://github.com/newhiwoong/Sequence-Models-coursera/blob/master/Week%203/Trigger%20word%20detection/Trigger%2Bword%2Bdetection%2B-%2Bv1.ipynb
 
-### 제너레이터
+### generative model 
 
 Dinosaurus land : https://github.com/newhiwoong/Sequence-Models-coursera/blob/master/Week%201/Dinosaur%20Island%20--%20Character-level%20language%20model/Dinosaurus%2BIsland%2B--%2BCharacter%2Blevel%2Blanguage%2Bmodel%2Bfinal%2B-%2Bv3.ipynb
 
