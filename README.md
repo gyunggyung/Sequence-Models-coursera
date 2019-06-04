@@ -34,7 +34,7 @@ Good luck as you get started, and I hope you enjoy the course!
 - [Week3 Quiz Solutions](https://github.com/newhiwoong/Sequence-Models-coursera/tree/master/Week%203/%ED%80%B4%EC%A6%88)
 
 
-## + [Keras-Applications](https://github.com/newhiwoong/Keras-Applications)
+## [Keras-Applications](https://github.com/newhiwoong/Keras-Applications)
 
 ### sequence models
 - [Dinosaurus land](https://github.com/newhiwoong/Sequence-Models-coursera/blob/master/Week%201/Dinosaur%20Island%20--%20Character-level%20language%20model/Dinosaurus%2BIsland%2B--%2BCharacter%2Blevel%2Blanguage%2Bmodel%2Bfinal%2B-%2Bv3.ipynb)
